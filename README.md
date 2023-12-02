@@ -1,4 +1,5 @@
-### Hi there 👋
+### Marilyn diz: - Fique a vontade para explorar👁‍🗨
+### Marilyn says: - Feel free to explore👁‍🗨
 
 <!--
 **Marilyn-FullStack/Marilyn-FullStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
