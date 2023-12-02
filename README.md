@@ -8,11 +8,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=false&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: tokyonight)"
     />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=false&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
   <img src="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=true" />
@@ -22,7 +22,6 @@
   
   <img align="center" alt="Mari-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
