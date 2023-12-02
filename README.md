@@ -15,7 +15,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=true" />
 </picture>
 
 <div style="display: inline_block"><br>
