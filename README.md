@@ -12,10 +12,10 @@
     media="(prefers-color-scheme: tokyonight)"
     />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=true&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=false&theme=transparent"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-  <img src="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=true" />
 </picture>
 
 <div style="display: inline_block"><br>
