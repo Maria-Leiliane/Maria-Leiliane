@@ -7,6 +7,12 @@
 - ⚡ Ein interessanter Fakt: Ich mag die deutsche Sprache sehr
 
 
+<div align="center">
+  <a href="https://github.com/Marilyn-FullStack">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marilyn-FullStack&layout=compact&langs_count=7&theme=Dark"/>
+</div>
+
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Mari-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
