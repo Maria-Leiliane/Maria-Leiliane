@@ -1,9 +1,9 @@
 
-### Marilyn says: - Feel free to explore👁‍🗨
+### Marilyn says: - Feel free to explore
 
 - 🌱 I’m currently learning Java Full
-- 👯 If you need help with the languages I'm learning, you can call me!
-- 🤔 I'm transitioning from the commercial area to technology
+- 🤝 If you need help with the languages I'm learning, you can call me!
+- 👩🏾‍💻 I'm transitioning from the commercial area to technology
 - ⚡ Ein interessanter Fakt: Ich mag die deutsche Sprache sehr
 
 
