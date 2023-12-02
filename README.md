@@ -6,17 +6,6 @@
 - 🤔 I'm transitioning from the commercial area to technology
 - ⚡ Ein interessanter Fakt: Ich mag die deutsche Sprache sehr
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: tokyonight)"
-    />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=true&theme=transparent"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-    />
-  <img src="https://github-readme-stats.vercel.app/api?username=Marilyn-FullStack&show_icons=true" />
-</picture>
 
 <div style="display: inline_block"><br>
   
