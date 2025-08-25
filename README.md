@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning programming
 - 🤝 If you need help with the languages I'm learning, you can call me!
-- 👩🏾‍💻 I'mfrom the commercial area to technology
+- 👩🏾‍💻 Back-End Developer with experience in fintech sector.
 - ⚡ Ein interessanter Fakt: Ich mag die deutsche Sprache sehr
 
 
