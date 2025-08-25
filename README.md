@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning programming
 - 🤝 If you need help with the languages I'm learning, you can call me!
-- 👩🏾‍💻 I'm transitioning from the commercial area to technology
+- 👩🏾‍💻 I'mfrom the commercial area to technology
 - ⚡ Ein interessanter Fakt: Ich mag die deutsche Sprache sehr
 
 
