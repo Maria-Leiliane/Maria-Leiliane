@@ -57,7 +57,7 @@ If you need help or want to brainstorm about the languages and tools I'm explori
 <h3 align="center">DevOps, Build & Versioning</h3>
 <div align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,gradle,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,gradle,maven,git&theme=dark" />
   </a>
   <br>
   <img src="https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
