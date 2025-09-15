@@ -1,5 +1,4 @@
-<div align="center">
-  </div>
+
 
 <div align="center">
   <h1>Hi there, I'm Maria Leiliane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -7,9 +6,13 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Maria-Leiliane&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Leiliane&layout=pie&theme=radical&hide_border=true&hide=c%2B%2B" alt="Top Languages" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJjcTVudTJybDRvdDljcG1uZTRuaTI0MTRwZDhnbjlxcGRlZXJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uve6aHUnqC3IMM7xAd/giphy.gif" alt="Demonstração em vídeo" height="247em" /> <img height="247em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Leiliane&layout=pie&theme=radical&hide_border=true&hide=c%2B%2B" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Maria-Leiliane&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
 
 <h2 align="center">👩‍💻 About Me</h2>
 <p align="center">
