@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h1>Hi there, I'm Maria Leiliane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1>Hi there, I'm Maria Leiliane</h1>
   <h3>Back-End Developer with experience in the fintech sector.</h3>
 </div>
 
