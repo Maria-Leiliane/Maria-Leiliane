@@ -31,7 +31,7 @@ If you need help or want to brainstorm about the languages and tools I'm explori
 
 <h2 align="center">🛠️ My Tech Stack & Tools</h2>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages & Structure</h3>
 <div align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,ts,js,html,css&theme=dark" />
