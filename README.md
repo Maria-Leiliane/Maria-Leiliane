@@ -6,11 +6,11 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJjcTVudTJybDRvdDljcG1uZTRuaTI0MTRwZDhnbjlxcGRlZXJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uve6aHUnqC3IMM7xAd/giphy.gif" alt="Demonstração em vídeo" height="247em" /> <img height="247em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Leiliane&layout=pie&theme=radical&hide_border=true&hide=c%2B%2B" alt="Top Languages" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJjcTVudTJybDRvdDljcG1uZTRuaTI0MTRwZDhnbjlxcGRlZXJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uve6aHUnqC3IMM7xAd/giphy.gif" alt="Demon Slayer" width="400" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Maria-Leiliane&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Maria-Leiliane&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
