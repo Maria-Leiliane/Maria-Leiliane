@@ -10,7 +10,12 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Maria-Leiliane&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maria-Leiliane&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Leiliane&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Maria-Leiliane&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
