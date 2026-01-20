@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <h1>Hi there, I'm Maria Leiliane</h1>
   <h3>Back-End Developer with experience in the fintech sector.</h3>
