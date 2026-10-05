@@ -14,9 +14,10 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 <p align="center">
-I'm a Back-End Developer focused on building robust and scalable solutions, especially within the fintech world. <br>
-I'm always pursuing new knowledge and love the challenge of learning new technologies. <br>
-If you need help or want to brainstorm about the languages and tools I'm exploring, feel free to reach out!
+I'm a Software Engineer focused on building robust and scalable solutions, <br>
+ with background in fintech systems and cloud-native architecture.<br>
+Passionate about cloud computing, backend development, and continuous integration. <br>
+Feel free to reach out if you'd like to collaborate or exchange ideas!
 <br><br>
 ⚡ <b>Fun fact:</b> I love the German language and culture! <i>(Ich liebe die deutsche Sprache und Kultur!)</i>
 </p>
