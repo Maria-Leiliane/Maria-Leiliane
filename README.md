@@ -33,7 +33,7 @@ Feel free to reach out if you'd like to collaborate or exchange ideas!
 <h3 align="center">Languages & Structure</h3>
 <div align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,js,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,ts,js,go,html,css&theme=dark" />
   </a>
 </div>
 
