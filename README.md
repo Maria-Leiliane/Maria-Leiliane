@@ -40,7 +40,7 @@ Feel free to reach out if you'd like to collaborate or exchange ideas!
 <h3 align="center">Frameworks & Libraries</h3>
 <div align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,react,angular&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,react,angular&theme=dark" />
   </a>
   <br>
   <img src="https://img.shields.io/badge/Quarkus-00599C?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
