@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Maria Leiliane</h1>
-  <h3>Back-End Developer with experience in the fintech sector.</h3>
+  <h3>Software Engineer | Back-End & Cloud with experience in the fintech sector.</h3>
 </div>
 
 <div align="center">
